@@ -1,6 +1,6 @@
 # Checkout my portfolio [here](https://sayafolio.web.app/)! ✨
 
-Hi! I'm Saya.
+# Hi! I'm Saya👋🏼 # 
 
 I'm a front-end developer who is currently pivoting my way into tech. My background in the hospitality industry and international agriculture education has given me the ability to be a diversified thinker, challenging and a team player. 
 
@@ -8,11 +8,13 @@ I'm a curious person who is never stop learning and also I can always find enjoy
 
 I'm super looking for working in tech community and eager to improve my programming skills!
 
+<div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=saya0118&show_icons=true&theme=gruvbox_light" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saya0118&layout=compact" />
+</div>
 
 
-## Skills
+> ## Skills
 
 ![](https://img.shields.io/badge/<Lang>-<HTML>-E34F26?style=for-the-badge&logo=html5)
 ![](https://img.shields.io/badge/<Lang>-<CSS>-1572B6?style=for-the-badge&logo=css3)
