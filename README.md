@@ -14,7 +14,10 @@ I'm super looking for working in tech community and eager to improve my programm
 ![](https://img.shields.io/badge/<Lang>-<TypeScript>-critical?style=for-the-badge&logo=typescript)
 ![](https://img.shields.io/badge/<Lang>-<JavaScript>-critical?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/<Libr>-<React>-informational?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/<Libr>-<Redux>-informational?style=for-the-badge&logo=redux)
 ![](https://img.shields.io/badge/<Libr>-<SASS(SCSS)>-informational?style=for-the-badge&logo=sass)
+![](https://img.shields.io/badge/<Libr>-<Node.js>-informational?style=for-the-badge&logo=nodejs)
+![](https://img.shields.io/badge/<Libr>-<Tailwind.css>-informational?style=for-the-badge&logo=tailwind)
 
 <!-- Actual text -->
 
