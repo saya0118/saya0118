@@ -13,3 +13,15 @@ I'm super looking for working in tech community and eager to improve my programm
 
 ![](https://img.shields.io/badge/<Lang>-<TypeScript>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/<Lang>-<JavaScript>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+<!-- Actual text -->
+
+You can connect with me on [![LinkedIn][1.1]][1].
+
+<!-- Icons -->
+
+[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/saya
