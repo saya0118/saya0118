@@ -18,6 +18,8 @@ I'm super looking for working in tech community and eager to improve my programm
 ![](https://img.shields.io/badge/<Libr>-<SASS(SCSS)>-informational?style=for-the-badge&logo=sass)
 ![](https://img.shields.io/badge/<Libr>-<Node.js>-informational?style=for-the-badge&logo=node.js)
 ![](https://img.shields.io/badge/<Libr>-<Tailwind.css>-informational?style=for-the-badge&logo=tailwindcss)
+![](https://img.shields.io/badge/<Database>-<MongoDB>-orange?style=for-the-badge&logo=mongodb)
+![](https://img.shields.io/badge/<Database>-<Firebase>-orange?style=for-the-badge&logo=firebase)
 
 <!-- Actual text -->
 
