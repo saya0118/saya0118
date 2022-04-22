@@ -32,6 +32,9 @@
 ![](https://img.shields.io/badge/<Library>-<Node.js>-339933?style=for-the-badge&logo=node.js)
 ![](https://img.shields.io/badge/<Database>-<MongoDB>-47A248?style=for-the-badge&logo=mongodb)
 ![](https://img.shields.io/badge/<Database>-<Firebase>-FFCA28?style=for-the-badge&logo=firebase)
+![](https://img.shields.io/badge/<Framework>-<cypress>-17202C?style=for-the-badge&logo=cypress)
+![](https://img.shields.io/badge/<Framework>-<Vite>-646CFF?style=for-the-badge&logo=vite)
+![](https://img.shields.io/badge/<Tools>-<eslint>-4B32C3?style=for-the-badge&logo=eslint)
 
 <br/>
 
