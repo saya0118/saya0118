@@ -8,7 +8,8 @@ I'm a curious person who is never stop learning and also I can always find enjoy
 
 I'm super looking for working in tech community and eager to improve my programming skills!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saya0118&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saya0118&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saya0118&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Skills
