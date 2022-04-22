@@ -11,14 +11,13 @@ I'm super looking for working in tech community and eager to improve my programm
 
 ## Skills
 
-![](https://img.shields.io/badge/<Lang>-<TypeScript>-3178C6?style=for-the-badge&logo=typescript)
 ![](https://img.shields.io/badge/<Lang>-<JavaScript>-F7DF1E?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/<Lang>-<TypeScript>-3178C6?style=for-the-badge&logo=typescript)
 ![](https://img.shields.io/badge/<Libr>-<React>-61DAFB?style=for-the-badge&logo=react)
 ![](https://img.shields.io/badge/<Libr>-<Redux>-764ABC?style=for-the-badge&logo=redux)
 ![](https://img.shields.io/badge/<Libr>-<SASS(SCSS)>-CC6699?style=for-the-badge&logo=sass)
-![](https://img.shields.io/badge/<Libr>-<MUI>-007FFF?style=for-the-badge&logo=mui)
 ![](https://img.shields.io/badge/<Libr>-<Tailwind.css>-06B6D4?style=for-the-badge&logo=tailwindcss)
-![](https://img.shields.io/badge/<Libr>-<Redux>-764ABC?style=for-the-badge&logo=redux)
+![](https://img.shields.io/badge/<Libr>-<MUI>-007FFF?style=for-the-badge&logo=mui)
 ![](https://img.shields.io/badge/<Libr>-<Node.js>-339933?style=for-the-badge&logo=node.js)
 ![](https://img.shields.io/badge/<Database>-<MongoDB>-47A248?style=for-the-badge&logo=mongodb)
 ![](https://img.shields.io/badge/<Database>-<Firebase>-FFCA28?style=for-the-badge&logo=firebase)
