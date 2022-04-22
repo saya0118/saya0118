@@ -11,9 +11,9 @@ I'm super looking for working in tech community and eager to improve my programm
 
 ## Skills
 
-![](https://img.shields.io/badge/<Lang>-<TypeScript>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/<Lang>-<JavaScript>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/<Libr>-<React>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/<Lang>-<TypeScript>-critical?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/<Lang>-<JavaScript>-critical?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/<Libr>-<React>-informational?style=flat&logo=data:react/svg%2bxml;base64,<BASE64_DATA>)
 
 <!-- Actual text -->
 
