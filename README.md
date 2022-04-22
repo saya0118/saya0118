@@ -13,7 +13,7 @@ I'm super looking for working in tech community and eager to improve my programm
 
 ![](https://img.shields.io/badge/<Lang>-<TypeScript>-critical?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/<Lang>-<JavaScript>-critical?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/<Libr>-<React>-informational?style=flat&logo=react%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/<Libr>-<React>-informational?style=flat&logo=react,<BASE64_DATA>)
 
 <!-- Actual text -->
 
