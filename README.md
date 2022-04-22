@@ -12,7 +12,7 @@ I'm super looking for working in tech community and eager to improve my programm
 ## Skills
 
 ![](https://img.shields.io/badge/<Lang>-<TypeScript>-critical??style=for-the-badge&logo=typescript)
-![](https://img.shields.io/badge/<Lang>-<JavaScript>-critical??style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/<Lang>-<JavaScript>-informational??style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/<Libr>-<React>-informational?style=for-the-badge&logo=react)
 
 <!-- Actual text -->
