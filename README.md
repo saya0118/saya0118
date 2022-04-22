@@ -9,8 +9,8 @@ I'm a curious person who is never stop learning and also I can always find enjoy
 I'm super looking for working in tech community and eager to improve my programming skills!
 
 <div>
-<img width=50% src="https://github-readme-stats.vercel.app/api?username=saya0118&show_icons=true&theme=gruvbox_light" />
-<img align="right" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=saya0118&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=saya0118&show_icons=true&theme=gruvbox_light" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saya0118&layout=compact" />
 </div>
 
 
