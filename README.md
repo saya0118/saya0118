@@ -2,20 +2,21 @@
 
 **Hi! I'm Saya👋🏼**
 
-I'm a front-end developer who is currently pivoting my way into tech. My background in the hospitality industry and international agriculture education has given me the ability to be a diversified thinker, challenging and a team player. 
+- 💻 I'm currently pivoting my way into tech!
+- ⚡️ I'm super looking for working in tech community and eager to improve my programming skills
+- 📍 2022 Goals: Contribute to more projects with other developers and enhance my TypeScript/React skills more!
+- 🏔 Fun fact: I love traveling, hiking, cooking and learning new things
 
-I'm a curious person who is never stop learning and also I can always find enjoyments there. 
-
-I'm super looking for working in tech community and eager to improve my programming skills!
+<br/>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=saya0118&show_icons=true&theme=gruvbox_light" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saya0118&layout=compact" />
+<img width=55% src="https://github-readme-stats.vercel.app/api?username=saya0118&show_icons=true&theme=gruvbox_light" />
+<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=saya0118&layout=compact" />
 </div>
 
+<br/>
 
-
-> ## Skills
+## Skills
 
 ![](https://img.shields.io/badge/<Lang>-<HTML>-E34F26?style=for-the-badge&logo=html5)
 ![](https://img.shields.io/badge/<Lang>-<CSS>-1572B6?style=for-the-badge&logo=css3)
@@ -29,6 +30,10 @@ I'm super looking for working in tech community and eager to improve my programm
 ![](https://img.shields.io/badge/<Library>-<Node.js>-339933?style=for-the-badge&logo=node.js)
 ![](https://img.shields.io/badge/<Database>-<MongoDB>-47A248?style=for-the-badge&logo=mongodb)
 ![](https://img.shields.io/badge/<Database>-<Firebase>-FFCA28?style=for-the-badge&logo=firebase)
+
+<br/>
+
+## Connect with me
 
 <!-- Actual text -->
 
