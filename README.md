@@ -19,13 +19,17 @@
 <br/>
 
 ## Skills
+**Specialties**
+
+![](https://img.shields.io/badge/<Lang>-<TypeScript>-3178C6?style=for-the-badge&logo=typescript)
+![](https://img.shields.io/badge/<Library>-<React>-61DAFB?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/<Library>-<Redux>-764ABC?style=for-the-badge&logo=redux)
+
+**Others**
 
 ![](https://img.shields.io/badge/<Lang>-<HTML>-E34F26?style=for-the-badge&logo=html5)
 ![](https://img.shields.io/badge/<Lang>-<CSS>-1572B6?style=for-the-badge&logo=css3)
 ![](https://img.shields.io/badge/<Lang>-<JavaScript>-F7DF1E?style=for-the-badge&logo=javascript)
-![](https://img.shields.io/badge/<Lang>-<TypeScript>-3178C6?style=for-the-badge&logo=typescript)
-![](https://img.shields.io/badge/<Library>-<React>-61DAFB?style=for-the-badge&logo=react)
-![](https://img.shields.io/badge/<Library>-<Redux>-764ABC?style=for-the-badge&logo=redux)
 ![](https://img.shields.io/badge/<Library>-<SASS(SCSS)>-CC6699?style=for-the-badge&logo=sass)
 ![](https://img.shields.io/badge/<Framework>-<Tailwind.css>-06B6D4?style=for-the-badge&logo=tailwindcss)
 ![](https://img.shields.io/badge/<Library>-<MUI>-007FFF?style=for-the-badge&logo=mui)
@@ -50,4 +54,4 @@ You can connect with me on [![LinkedIn][1.1]][1].
 
 <!-- Links to your social media accounts -->
 
-[1]: https://www.linkedin.com/in/saya
+[1]: https://www.linkedin.com/in/sayaka-matsuda-659338211/
