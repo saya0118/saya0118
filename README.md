@@ -21,12 +21,12 @@
 ## Skills
 **Specialties**
 
-![](https://img.shields.io/badge/<Lang>-<TypeScript>-3178C6?style=for-the-badge&logo=typescript)
 ![](https://img.shields.io/badge/<Library>-<React>-61DAFB?style=for-the-badge&logo=react)
 ![](https://img.shields.io/badge/<Library>-<Redux>-764ABC?style=for-the-badge&logo=redux)
 
 **Others**
 
+![](https://img.shields.io/badge/<Lang>-<TypeScript>-3178C6?style=for-the-badge&logo=typescript)
 ![](https://img.shields.io/badge/<Lang>-<HTML>-E34F26?style=for-the-badge&logo=html5)
 ![](https://img.shields.io/badge/<Lang>-<CSS>-1572B6?style=for-the-badge&logo=css3)
 ![](https://img.shields.io/badge/<Lang>-<JavaScript>-F7DF1E?style=for-the-badge&logo=javascript)
