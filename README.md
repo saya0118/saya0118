@@ -46,7 +46,7 @@
 
 <!-- Actual text -->
 
-You can connect with me on [![LinkedIn][1.1]][1].
+You can connect with me on [![LinkedIn][1.1]][1] or [Email](chemi0802@gmail.com).
 
 <!-- Icons -->
 
