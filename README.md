@@ -30,7 +30,7 @@
 ![](https://img.shields.io/badge/<Lang>-<HTML>-E34F26?style=for-the-badge&logo=html5)
 ![](https://img.shields.io/badge/<Lang>-<CSS>-1572B6?style=for-the-badge&logo=css3)
 ![](https://img.shields.io/badge/<Lang>-<JavaScript>-F7DF1E?style=for-the-badge&logo=javascript)
-![](https://img.shields.io/badge/<Library>-<SASS(SCSS)>-CC6699?style=for-the-badge&logo=sass)
+![](https://img.shields.io/badge/<Library>-<SCSS>-CC6699?style=for-the-badge&logo=sass)
 ![](https://img.shields.io/badge/<Framework>-<Tailwind.css>-06B6D4?style=for-the-badge&logo=tailwindcss)
 ![](https://img.shields.io/badge/<Library>-<MUI>-007FFF?style=for-the-badge&logo=mui)
 ![](https://img.shields.io/badge/<Library>-<Node.js>-339933?style=for-the-badge&logo=node.js)
