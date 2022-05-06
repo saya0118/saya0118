@@ -4,7 +4,7 @@
 
 - 💻 I'm a passionate React developer based in Vancouver.
 - 📍 2022 Goals: Contribute to more projects with other developers and be a React expert!
-- 🌱 I'm a curious person and love a challenging enviroment.
+- 🌱 I'm a curious person who loves a challenging enviroment.
 - 👉🏼 My portfolio is [here.](https://sayafolio.web.app)
 - 🏔 Fun fact: I love traveling, hiking, cooking and learning new things.
 
