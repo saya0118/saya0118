@@ -4,9 +4,9 @@
 
 - 💻 I'm currently pivoting my way into tech!
 - ⚡️ I'm super looking for working in tech community and eager to improve my programming skills
-- 📍 2022 Goals: Contribute to more projects with other developers and enhance my TypeScript/React skills!
+- 📍 2022 Goals: Contribute to more projects with other developers and be an React expert!
 - 👉🏼 My portfolio is [here.](https://sayafolio.web.app)
-- 🏔 Fun fact: I love traveling, hiking, cooking and learning new things
+- 🏔 Fun fact: I love traveling, hiking, cooking and learning new things.
 
 
 <br/>
