@@ -37,9 +37,14 @@
 ![](https://img.shields.io/badge/<backend>-<Express>-339933?style=for-the-badge&logo=express)
 ![](https://img.shields.io/badge/<backend>-<MongoDB>-47A248?style=for-the-badge&logo=mongodb)
 ![](https://img.shields.io/badge/<backend>-<Firebase>-FFCA28?style=for-the-badge&logo=firebase)
-![](https://img.shields.io/badge/<Others>-<cypress>-17202C?style=for-the-badge&logo=cypress)
-![](https://img.shields.io/badge/<Others>-<Vite>-646CFF?style=for-the-badge&logo=vite)
-![](https://img.shields.io/badge/<Others>-<eslint>-4B32C3?style=for-the-badge&logo=eslint)
+![](https://img.shields.io/badge/<Tool>-<cypress>-17202C?style=for-the-badge&logo=cypress)
+![](https://img.shields.io/badge/<Tool>-<Vite>-646CFF?style=for-the-badge&logo=vite)
+![](https://img.shields.io/badge/<Tool>-<eslint>-4B32C3?style=for-the-badge&logo=eslint)
+![](https://img.shields.io/badge/<Tool>-<git>-E84D32?style=for-the-badge&logo=git)
+![](https://img.shields.io/badge/<Tool>-<github>-1A1E22?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/<Tool>-<gitlab>-DC4227?style=for-the-badge&logo=gitlab)
+![](https://img.shields.io/badge/<Tool>-<trello>-0175B9?style=for-the-badge&logo=trello)
+![](https://img.shields.io/badge/<Tool>-<figma>-EA4B1D?style=for-the-badge&logo=figma)
 
 <br/>
 
