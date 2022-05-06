@@ -21,25 +21,25 @@
 ## Skills
 **Specialties**
 
-![](https://img.shields.io/badge/<Library>-<React>-61DAFB?style=for-the-badge&logo=react)
-![](https://img.shields.io/badge/<Library>-<Redux>-764ABC?style=for-the-badge&logo=redux)
+![](https://img.shields.io/badge/<Frontend>-<React>-61DAFB?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/<Frontend>-<Redux>-764ABC?style=for-the-badge&logo=redux)
 
 **Others**
 
-![](https://img.shields.io/badge/<Lang>-<TypeScript>-3178C6?style=for-the-badge&logo=typescript)
-![](https://img.shields.io/badge/<Lang>-<HTML>-E34F26?style=for-the-badge&logo=html5)
-![](https://img.shields.io/badge/<Lang>-<CSS>-1572B6?style=for-the-badge&logo=css3)
-![](https://img.shields.io/badge/<Lang>-<JavaScript>-F7DF1E?style=for-the-badge&logo=javascript)
-![](https://img.shields.io/badge/<Library>-<SCSS>-CC6699?style=for-the-badge&logo=sass)
-![](https://img.shields.io/badge/<Framework>-<Tailwind.css>-06B6D4?style=for-the-badge&logo=tailwindcss)
-![](https://img.shields.io/badge/<Library>-<MUI>-007FFF?style=for-the-badge&logo=mui)
-![](https://img.shields.io/badge/<Library>-<Node.js>-339933?style=for-the-badge&logo=node.js)
-![](https://img.shields.io/badge/<Framework>-<Express>-339933?style=for-the-badge&logo=express)
-![](https://img.shields.io/badge/<Database>-<MongoDB>-47A248?style=for-the-badge&logo=mongodb)
-![](https://img.shields.io/badge/<Database>-<Firebase>-FFCA28?style=for-the-badge&logo=firebase)
-![](https://img.shields.io/badge/<Framework>-<cypress>-17202C?style=for-the-badge&logo=cypress)
-![](https://img.shields.io/badge/<Framework>-<Vite>-646CFF?style=for-the-badge&logo=vite)
-![](https://img.shields.io/badge/<Tools>-<eslint>-4B32C3?style=for-the-badge&logo=eslint)
+![](https://img.shields.io/badge/<Frontend>-<TypeScript>-3178C6?style=for-the-badge&logo=typescript)
+![](https://img.shields.io/badge/<Frontend>-<HTML>-E34F26?style=for-the-badge&logo=html5)
+![](https://img.shields.io/badge/<Frontend>-<CSS>-1572B6?style=for-the-badge&logo=css3)
+![](https://img.shields.io/badge/<Frontend>-<JavaScript>-F7DF1E?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/<Frontend>-<SCSS>-CC6699?style=for-the-badge&logo=sass)
+![](https://img.shields.io/badge/<Frontend>-<Tailwind.css>-06B6D4?style=for-the-badge&logo=tailwindcss)
+![](https://img.shields.io/badge/<Frontend>-<MUI>-007FFF?style=for-the-badge&logo=mui)
+![](https://img.shields.io/badge/<backend>-<Node.js>-339933?style=for-the-badge&logo=node.js)
+![](https://img.shields.io/badge/<backend>-<Express>-339933?style=for-the-badge&logo=express)
+![](https://img.shields.io/badge/<backend>-<MongoDB>-47A248?style=for-the-badge&logo=mongodb)
+![](https://img.shields.io/badge/<backend>-<Firebase>-FFCA28?style=for-the-badge&logo=firebase)
+![](https://img.shields.io/badge/<Others>-<cypress>-17202C?style=for-the-badge&logo=cypress)
+![](https://img.shields.io/badge/<Others>-<Vite>-646CFF?style=for-the-badge&logo=vite)
+![](https://img.shields.io/badge/<Others>-<eslint>-4B32C3?style=for-the-badge&logo=eslint)
 
 <br/>
 
