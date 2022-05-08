@@ -45,6 +45,8 @@
 ![](https://img.shields.io/badge/<Tool>-<gitlab>-DC4227?style=for-the-badge&logo=gitlab)
 ![](https://img.shields.io/badge/<Tool>-<trello>-0175B9?style=for-the-badge&logo=trello)
 ![](https://img.shields.io/badge/<Tool>-<figma>-EA4B1D?style=for-the-badge&logo=figma)
+![](https://img.shields.io/badge/<tool>-<npm>-C60101?style=for-the-badge&logo=npm)
+![](https://img.shields.io/badge/<tool>-<yarn>-348AB3?style=for-the-badge&logo=yarn)
 
 <br/>
 
