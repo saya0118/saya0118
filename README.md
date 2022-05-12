@@ -6,7 +6,7 @@
 - 📍 2022 Goals: Contribute to more projects with other developers and be a React expert!
 - 🌱 I'm a curious person who loves a challenging enviroment.
 - 👉🏼 My portfolio is [here.](https://sayafolio.web.app)
-- 🏔 Fun fact: I love traveling, hiking, cooking and learning new things.
+- 🏔 Fun fact: I love traveling, hiking, playing tennis or other sports and learning new things!
 
 
 <br/>
