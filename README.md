@@ -34,7 +34,7 @@
 ![](https://img.shields.io/badge/<Frontend>-<MUI>-007FFF?style=for-the-badge&logo=mui)
 ![](https://img.shields.io/badge/<backend>-<Node.js>-339933?style=for-the-badge&logo=node.js)
 ![](https://img.shields.io/badge/<backend>-<Express>-339933?style=for-the-badge&logo=express)
-![](https://img.shields.io/badge/<backend>-<MongoDB>-47A248?style=for-the-badge&logo=mongodb)
+![](https://img.shields.io/badge/<>-<MongoDB>-47A248?style=for-the-badge&logo=mongodb)
 ![](https://img.shields.io/badge/<backend>-<Firebase>-FFCA28?style=for-the-badge&logo=firebase)
 ![](https://img.shields.io/badge/<Tool>-<cypress>-17202C?style=for-the-badge&logo=cypress)
 ![](https://img.shields.io/badge/<Tool>-<Vite>-646CFF?style=for-the-badge&logo=vite)
