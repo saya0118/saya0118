@@ -3,9 +3,9 @@
 **Hi! I'm Saya👋🏼**
 
 - 💻 I'm a passionate React developer based in Vancouver.
-- 📍 2022 Goals: Contribute to more projects with other developers and be a React expert!
-- 🌱 I'm a curious person who loves a challenging enviroment.
-- 🏔 Fun fact: I love traveling, hiking, playing tennis or other sports and learning new things!
+- 📍 2023 Goals: Contribute to more projects with other developers and be a React expert!
+- 🌱 I'm a curious person who loves a challenging environment.
+- 🏔 Fun fact: I love traveling, yoga, playing tennis or other sports, and learning new things!
 
 
 <br/>
